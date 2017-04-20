@@ -1,15 +1,17 @@
+# Bienvenue chez
+
 ![L](becode.gif)
 
 ## Qu'est-ce qu'un environnement d'apprentissage optimisé ?
 
-Chez BeCode, nous faisons en sorte ne pas être une école comme les autres. Les méthodes d'apprentissages ne sont pas ordinaires, bousculent les codes et ********. Concrètement, il s'agit de communiquer énormément et surtout, de collaborer.
+Chez BeCode, nous faisons en sorte ne pas être une école comme les autres. Les méthodes d'apprentissages ne sont pas ordinaires, la relation "professeur/élève" étant fortement différent de l'enseignement traditionnel. Concrètement, il s'agit de communiquer énormément et surtout, de collaborer.
 
 ## Communication
 
 Notre force chez BeCode, est de représenter une entreprise modèle grâce au partage de soi, de nos connaissances et de nos expériences de vie.
 Nos différents projets nous poussent à *communiquer* sans arrêt, **_avec fun et interaction._**
 
-_La communication consiste à comprendre celui qui écoute" (Robert Sabatier)_
+> _La communication consiste à comprendre celui qui écoute" (Robert Sabatier)_
 
 ## Comment communique-t-on et travaillons-nous chez BeCode ?
 
@@ -30,10 +32,13 @@ La communication est la base de la pédagogie active.
 * L'autonomie, aller au fonds des choses
 * La confiance en soi
 
-1 Echange
-*travaux pratiques en groupe (entraide des équipes, échanges entre apprennants et formateurs :blush:) 
-*source d'informations ( internet)
-*réflexion (les délices comm du matin, le debrief de fin de journée)
+## Objectifs
+
+Le but principal de la formation est de devenir Developpeur Web indépendant et qualifié. A côté de cela, des objectifs sont réalisés au quotidien lors des épreuves ou travaux ( individuel ou de groupes ). Par exemple, l'objectif du dépassement de soi et la résolution de problèmes par soi-même.
 
 
+Suivez nos aventures et progrès en cliquant [ici](www.becode.org)
+
+
+![albert](albert-einstein-520.jpg)
 
