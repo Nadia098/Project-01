@@ -1,4 +1,4 @@
-![Logo animé Sarah](http://hpics.li/767a228)
+![Logo](http://img4.hostingpics.net/pics/919449becode.gif)
 
 ## Qu'est-ce qu'un environnement d'apprentissage optimisé ?
 
