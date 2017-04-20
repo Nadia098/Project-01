@@ -1,5 +1,1 @@
-# Project-01
-Blabla
-Bloblo
-Blibli
-orange
+ Le seul bien est la connaissance, le seul mal est l’ignorance.
