@@ -1,13 +1,34 @@
-# Project-01
+![Logo animé Sarah](http://hpics.li/767a228)
 
-### Communication
-La communication est la base de la pédagogie active;
-vivre ensemble, s'intéresser aux autres et s'entraider les uns les autres.
+## Qu'est-ce qu'un environnement d'apprentissage optimisé ?
 
-Notre force chez BeCode c'est de représenter un monde meilleur grâce au partage de soi, de nos connaissances et de nos expériences de vie.
+Lorem ipsum...
+
+## Communication
+
+Notre force chez BeCode, est de représenter une entreprise modèle grâce au partage de soi, de nos connaissances et de nos expériences de vie.
 Nos différents projets nous poussent à *communiquer* sans arrêt, **_avec fun et interaction._**
 
-"La communication consiste à comprendre celui qui écoute" (Robert Sabatier).
+_La communication consiste à comprendre celui qui écoute" (Robert Sabatier)_
+
+## Comment communique-t-on et travaillons-nous chez BeCode ?
+
+La communication est la base de la pédagogie active.
+
+* La pédagogie active est au centre même de la formation. 
+  *  Premier point
+  *  Second point
+  *  Troisième point
+
+* Via des projets
+
+* Via un auto apprentissage
+
+## Quelles sont les valeurs qui sont pronếes au sein de BeCode ?
+
+* L'entraide, le partage 
+* Autonomie, aller au fonds des choses
+* Confiance en soi
 
 **Communiquer chez BeCode:**
 1 Echange
