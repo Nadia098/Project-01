@@ -41,7 +41,7 @@ Suivez nos aventures et progrès en cliquant [ici](www.becode.org)
 
 
 ![albert](albert-einstein-520.jpg)
-<script type="text/javascript" >
-  alert("La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre");
-</script>
+Citation :
+  > "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre", Albert Einstein
+
 
