@@ -1,8 +1,8 @@
-![Logo animé Sarah](http://hpics.li/767a228)
+![L](http://img4.hostingpics.net/pics/919449becode.gif)
 
 ## Qu'est-ce qu'un environnement d'apprentissage optimisé ?
 
-Lorem ipsum...
+Chez BeCode, nous faisons en sorte ne pas être une école comme les autres. Les méthodes d'apprentissages ne sont pas ordinaires, bousculent les codes et ********. Concrètement, il s'agit de communiquer énormément et surtout, de collaborer.
 
 ## Communication
 
@@ -14,15 +14,15 @@ _La communication consiste à comprendre celui qui écoute" (Robert Sabatier)_
 ## Comment communique-t-on et travaillons-nous chez BeCode ?
 
 La communication est la base de la pédagogie active.
+ 
+1. La pédagogie active est au centre même de la formation. 
+  *  L'apprenti est poussé à trouver par lui-même les solutions aux problèmes rencontrés.
+  *  La pratique est au coeur même de la formation, l'étudiant doit pouvoir comprendre, assimiler et réutiliser ce qu'il a vu.
+  *  Le groupe est poussé à communiquer et à échanger le maximum.
 
-* La pédagogie active est au centre même de la formation. 
-  *  Premier point
-  *  Second point
-  *  Troisième point
+2. Via des projets
 
-* Via des projets
-
-* Via un auto apprentissage
+3. Via un auto apprentissage
 
 ## Quelles sont les valeurs qui sont pronếes au sein de BeCode ?
 
