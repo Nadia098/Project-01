@@ -45,3 +45,10 @@ Citation :
   > "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre", Albert Einstein
 
 
+
+<script type="text/javascript" >
+  alert("La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre", Albert Einstein");
+</script>
+
+
+
