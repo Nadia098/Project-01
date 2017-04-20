@@ -1,4 +1,4 @@
-![L](http://img4.hostingpics.net/pics/919449becode.gif)
+![L](becode.gif)
 
 ## Qu'est-ce qu'un environnement d'apprentissage optimisé ?
 
