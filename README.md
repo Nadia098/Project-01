@@ -27,11 +27,13 @@ La communication est la base de la pédagogie active.
 ## Quelles sont les valeurs qui sont pronếes au sein de BeCode ?
 
 * L'entraide, le partage 
-* Autonomie, aller au fonds des choses
-* Confiance en soi
+* L'autonomie, aller au fonds des choses
+* La confiance en soi
 
-**Communiquer chez BeCode:**
 1 Echange
 *travaux pratiques en groupe (entraide des équipes, échanges entre apprennants et formateurs :blush:) 
 *source d'informations ( internet)
 *réflexion (les délices comm du matin, le debrief de fin de journée)
+
+
+
