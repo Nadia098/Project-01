@@ -4,14 +4,14 @@
 
 ## Qu'est-ce qu'un environnement d'apprentissage optimisé ?
 
-Chez BeCode, nous faisons en sorte ne pas être une école comme les autres. Les méthodes d'apprentissages ne sont pas ordinaires, la relation "professeur/élève" étant fortement différent de l'enseignement traditionnel. Concrètement, il s'agit de communiquer énormément et surtout, de collaborer.
+Chez BeCode, nous faisons en sorte ne pas être une école comme les autres. Les méthodes d'apprentissages ne sont pas ordinaires, la relation "professeur/élève" étant fortement différente de l'enseignement traditionnel. Concrètement, il s'agit de communiquer énormément et surtout, de collaborer.
 
 ## Communication
 
-Notre force chez BeCode, est de représenter une entreprise modèle grâce au partage de soi, de nos connaissances et de nos expériences de vie.
+Notre force chez BeCode, est de représenter une entreprise modèle grâce au partage de soi, de nos connaissances et de nos expériences de vies.
 Nos différents projets nous poussent à *communiquer* sans arrêt, **_avec fun et interaction._**
 
-> _La communication consiste à comprendre celui qui écoute" (Robert Sabatier)_
+> _La communication consiste à comprendre celui qui écoute (Robert Sabatier)_
 
 ## Comment communique-t-on et travaillons-nous chez BeCode ?
 
@@ -41,4 +41,7 @@ Suivez nos aventures et progrès en cliquant [ici](www.becode.org)
 
 
 ![albert](albert-einstein-520.jpg)
+<script type="text/javascript" >
+  alert("La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre");
+</script>
 
